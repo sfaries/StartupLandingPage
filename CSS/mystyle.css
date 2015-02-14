@@ -58,11 +58,14 @@ div {
 	border-bottom: 1px solid #DDD;
 	z-index: 9999;
 }
-
 .top-navigation > .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
+}
+
+.links {
+	float: right;
 }
 
 
